@@ -1,0 +1,35 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Cache y temporales
+cache/
+temp/
+tmp/
+
+# Archivos de configuración sensibles
+.env
+config.local.php
+
+# Dependencias
+vendor/
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Archivos de backup
+*.bak
+*.swp
+*.swo
+
+# XAMPP específico (si no se necesita)
+xampp/
+
+# Subidas de usuarios (si son datos de prueba, pero incluir si es parte del proyecto)
+# uploads/
