@@ -14,9 +14,22 @@ Bienvenido a Ecommerce Orgánico, la plataforma que conecta agricultores orgáni
    - Nombre completo
    - Correo electrónico válido
    - Contraseña (mínimo 6 caracteres)
-   - Tipo de usuario: selecciona "Cliente"
+   - Tipo de usuario: selecciona "Cliente" o "Agricultor"
+   - Teléfono (opcional)
 3. Haz clic en "Registrarse"
 4. Recibirás confirmación de registro exitoso
+
+#### Usuarios de prueba disponibles
+Para probar el sistema, usa estos usuarios existentes:
+
+**Clientes:**
+- Ana Jiménez: ana@gmail.com / 123456
+- Cristhian Enciso: acroxmen@call.co / (contraseña personalizada)
+
+**Agricultores:**
+- Carlos Rodríguez: carlos@fincanaranja.com / 123456
+- María González: maria@huertoverde.com / 123456
+- Sara Penagos: sara@call.co / (contraseña personalizada)
 
 #### Gestionar tu perfil
 - Actualmente, la edición de perfil no está implementada
